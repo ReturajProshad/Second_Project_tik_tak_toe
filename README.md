@@ -8,8 +8,8 @@ This is a simple TicTacToe game implemented using the Flutter framework. The gam
 ![Screenshot_3](https://github.com/ReturajProshad/Second_Project_tik_tak_toe/assets/130851471/9455a6e6-c811-4b2c-b79e-36a625c7e615)
 ![Screenshot_4](https://github.com/ReturajProshad/Second_Project_tik_tak_toe/assets/130851471/5148c6c1-a847-4b4f-a2bf-db62c77fc810)
 ![Screenshot_5](https://github.com/ReturajProshad/Second_Project_tik_tak_toe/assets/130851471/c5949fd2-ccc0-4099-9cb5-3c649d3aa0b8)
-![Uploading Screenshot_2023-06-29-20-12-12-40_6be98029a5cbaa1c9f2e94ab939e7827.jpg…]()
-![Screenshot_6](https://github.com/ReturajProshad/Second_Project_tik_tak_toe/assets/130851471/68b3a756-4f2e-4889-9e1e-2c6dcd775b09)
+![Screenshot_6](https://github.com/ReturajProshad/Second_Project_tik_tak_toe/assets/130851471/abe1db1e-1bf7-492a-9bae-3b1978bd4beb)
+![Screenshot_7](https://github.com/ReturajProshad/Second_Project_tik_tak_toe/assets/130851471/68b3a756-4f2e-4889-9e1e-2c6dcd775b09)
 
 
 ## Features
