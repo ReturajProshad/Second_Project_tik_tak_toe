@@ -31,7 +31,7 @@ Follow these instructions to run the TicTacToe app on your local machine.
 
 2. Change to the project directory:
 
-```shell
+ ```shell
     cd TicTacToe
 
 3. Install dependenciess
@@ -42,7 +42,8 @@ flutter pub get
 ###Usage
 1.Connect your mobile device or start an emulator.
 2.Run the app:
-```shell
+
+ ```shell
 flutter run
 
 3.The app will launch on your device/emulator, and you can start playing TicTacToe.
